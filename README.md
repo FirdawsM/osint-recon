@@ -16,6 +16,7 @@
 
 </div>
 </pre>
+<div align="center">
 
 # OSINT-RECON
 
